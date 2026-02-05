@@ -13,7 +13,6 @@
 
 # Propeller Performance Test Rig Documentation
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](LICENSE)
-<!-- [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue)](https://doi.org/10.5281/zenodo.18486319) -->
 [![Build LaTeX](https://github.com/bilalmubdir/pptr_bilal_mubdir/actions/workflows/latex.yml/badge.svg)](https://github.com/bilalmubdir/pptr_bilal_mubdir/actions)  
 
   
@@ -252,7 +251,6 @@ If you use this repository in academic work:
   author       = {Bilal Mubdir},
   title        = {Propeller Performance Test Rig Documentation},
   year         = {2026},
-  <!-- doi = {10.5281/zenodo.18486319}, -->
   howpublished = {GitHub repository},
   url          = {https://github.com/bilalmubdir/pptr_bilal_mubdir}
 }
