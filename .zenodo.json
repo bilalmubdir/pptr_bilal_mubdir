@@ -1,8 +1,8 @@
 {
-  "title": "An Open-Source Experimental Platform for UAV Propeller and Propulsion System Evaluation Documentation",
-  "upload_type": "dataset",
+  "title": "Propeller Performance Test Rig Documentation",
+  "upload_type": "documentation",
   "publication_type": "other",
-  "description": "This repository contains open-source engineering documentation for an Open-Source Experimental Platform for UAV Propeller and Propulsion System Evaluation, including mechanical drawings, circuit schematics, block diagrams, and LaTeX-formatted specification tables. These materials accompany the research paper: \"[Paper Title]\".",
+  "description": "This repository contains open-source engineering documentation for the Propeller Performance Test Rig",
   "creators": [
     {
       "name": "Mubdir, Bilal",

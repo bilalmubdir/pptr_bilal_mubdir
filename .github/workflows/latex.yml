@@ -29,13 +29,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y texlive-full latexmk
 
-      # # Compile ONLY .tex files in docs/latex
-      # - name: Compile all .tex files in docs/latex
-      #   run: |
-      #     shopt -s nullglob
-      #     for f in *.tex; do
-      #       echo "Compiling $f"
-      #       latexmk -pdf -silent -halt-on-error "$f"
+      # Compile ONLY .tex files in docs/latex
+      - name: Compile all .tex files in docs/tables
+        run: |
+          shopt -s nullglob
+          for f in *.tex; do
+            echo "Compiling $f"
+            latexmk -pdf -silent -halt-on-error "$f"
           done
 
       - name: Upload PDFs as workflow artifacts
