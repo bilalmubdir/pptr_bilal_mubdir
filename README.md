@@ -116,13 +116,13 @@ The following commands are used to control the PPTR, operate the motor, read sen
 
 | Command | Syntax | Description | Input Range / Notes |
 |--------|--------|-------------|----------------------|
-| **Send ESC signal + read sensors** | `CM1 <X>` | Sends ESC control signal *and* reads thrust/torque sensors. | `X = 0–180` (Speed → 0–Max) |
-| **Send ESC signal only** | `CM2 <X>` | Drives the ESC without reading sensors. | `X = 0–180` (Speed → 0–Max) |
+| **Send ESC signal + read sensors** | `CM1,<X>` | Sends ESC control signal *and* reads thrust/torque sensors. | `X = 0–180` (Speed → 0–Max) |
+| **Send ESC signal only** | `CM2,<X>` | Drives the ESC without reading sensors. | `X = 0–180` (Speed → 0–Max) |
 | **Read sensors only** | `CM3` | Reads thrust and torque sensor values. | No input |
-| **ESC calibration routine** | `CM4 <X>` | Used to set ESC calibration points. | `X = 0` → min pulse<br>`X = 1` → max pulse |
+| **ESC calibration routine** | `CM4,<X>` | Used to set ESC calibration points. | `X = 0` → min pulse<br>`X = 1` → max pulse |
 | **Tare thrust & torque sensors** | `CM5` | Zeros all load cell readings before measurement. | No input |
 | **Safe motor shutdown** | `CM6` | Gradually reduces ESC signal to zero. | No input |
-| **Safe motor startup** | `CM7 <X>` | Starts motor safely and ramps signal to target value. | `X = 0–180` (Speed → 0–Max) |
+| **Safe motor startup** | `CM7,<X>` | Starts motor safely and ramps signal to target value. | `X = 0–180` (Speed → 0–Max) |
 | **System status check** | `CM8` | Reports system status, and safety flags. | No input |
 
 ### Notes
