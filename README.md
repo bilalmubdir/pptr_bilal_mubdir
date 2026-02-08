@@ -33,9 +33,10 @@ All diagrams and documents are provided under the **CERN Open Hardware License �
 ```
 docs/
 ├── figures/
-│   ├── mechanical/     # CAD, enclosure, and mechanical drawings
+│   ├── mechanical/     # PDFs of CAD, enclosure, and mechanical drawings
 │   ├── electrical/     # Circuit schematics, PCB module diagrams
-│   └── misc/           # other figures and diagrams   
+│   └── misc/           # other figures and diagrams
+├── CAD/                # The SolidWorks CAD files of the PPTR mechanical design
 ├── scripts/            # Python Remote Client Application and ESP12F/NodeMCU Firmware
 ├── lib/                # C++ libraries for the ESP12F/NodeMCU Firmware
 └── tables/             # LaTeX tables (specifications, BOM, etc.)
@@ -45,6 +46,8 @@ docs/
 #### **Figures**
 - Mechanical drawings (exploded views, dimensions)
 - Electrical schematics (DAQ, sensors, control modules)
+#### **CAD**
+- Mechanical design raw CAD files (SolidWorks 2025)
 #### **Tables**
 - Technical specifications
 #### **Scripts**
