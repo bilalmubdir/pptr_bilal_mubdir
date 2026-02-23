@@ -12,7 +12,9 @@
 </table>
 
 # Propeller Performance Test Rig Documentation
-[![OSHWA Certification](https://img.shields.io/badge/OSHWA-uk000089-brightred)](https://certification.oshwa.org/uk000089.html)
+![OSHWA Certified](images/oshwa-mark.png)
+**Certification UID:** UK000089
+[![OSHWA Certification](https://img.shields.io/badge/OSHWA-uk000089-darkred)](https://certification.oshwa.org/uk000089.html)
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](LICENSE)
   
 ## 📘 Overview
@@ -273,4 +275,5 @@ Please:
 
 ## License
 This project is licensed under the CERN Open Hardware License Version 2 – Strongly Reciprocal (CERN‑OHL‑S).
+
 
