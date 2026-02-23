@@ -12,9 +12,10 @@
 </table>
 
 # Propeller Performance Test Rig Documentation
-![OSHWA Certified](https://certification.oshwa.org/f4afd49d-9897-4339-a319-d99846717403)
-[![OSHWA Certification](https://img.shields.io/badge/OSHWA-uk000089-darkred)](https://certification.oshwa.org/uk000089.html)
+
+[![OSHWA Certification](https://img.shields.io/badge/OSHWA-UK000089-darkred)](https://certification.oshwa.org/uk000089.html)
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](LICENSE)
+<div><img src="docs/figures/misc/certification-mark-UK000089-wide.svg" height="60"></div>
   
 ## 📘 Overview
 This repository contains open‑source engineering documentation for the Propeller Performance Test Rig, including mechanical drawings, circuit schematics, block diagrams, and specification tables.
