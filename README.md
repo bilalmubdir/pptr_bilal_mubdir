@@ -17,7 +17,20 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue)](https://doi.org/10.5281/zenodo.18954630)
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](LICENSE)
 <div> <a href="https://certification.oshwa.org/uk000089.html"><img src="docs/figures/misc/certification-mark-UK000089-wide.svg" height="60"></div>
-  
+
+## 📚 Citation
+If you use this repository in academic work:
+
+```bibtex
+@misc{pptrBilal2026,
+  author       = {Mubdir, Bilal and Prempain, Emmanuel},
+  title        = {Propeller Performance Test Rig Documentation},
+  year         = {2026},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/bilalmubdir/pptr_bilal_mubdir}
+}
+```
+
 ## 📘 Overview
 This repository contains open‑source engineering documentation for the Propeller Performance Test Rig, including mechanical drawings, circuit schematics, block diagrams, and specification tables.
 
@@ -253,14 +266,13 @@ If you use this repository in academic work:
 
 ```bibtex
 @misc{pptrBilal2026,
-  author       = {Bilal Mubdir and Emmanuel Prempain},
+  author       = {Mubdir, Bilal and Prempain, Emmanuel},
   title        = {Propeller Performance Test Rig Documentation},
   year         = {2026},
   howpublished = {GitHub repository},
   url          = {https://github.com/bilalmubdir/pptr_bilal_mubdir}
 }
 ```
-  
 
 ## 🤝 Contributing
 Contributions are welcome!
