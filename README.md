@@ -23,12 +23,12 @@ If you use this repository in academic work:
 
 ```bibtex
 @misc{pptrBilal2026,
-  author       = {Mubdir, Bilal},
+  author       = {Mubdir, Bilal and Prempain, Emmanuel},
   title        = {Propeller Performance Test Rig Documentation},
   month        = mar,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v1.0.1},
+  version      = {v1.0.3},
   doi          = {10.5281/zenodo.18955065},
   url          = {https://doi.org/10.5281/zenodo.18955065},
 }
@@ -269,12 +269,12 @@ If you use this repository in academic work:
 
 ```bibtex
 @misc{pptrBilal2026,
-  author       = {Mubdir, Bilal},
+  author       = {Mubdir, Bilal and Prempain, Emmanuel},
   title        = {Propeller Performance Test Rig Documentation},
   month        = mar,
   year         = 2026,
   publisher    = {Zenodo},
-  version      = {v1.0.1},
+  version      = {v1.0.3},
   doi          = {10.5281/zenodo.18955065},
   url          = {https://doi.org/10.5281/zenodo.18955065},
 }
