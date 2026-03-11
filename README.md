@@ -252,7 +252,7 @@ After upload, the controller will broadcast its hotspot and accept UDP commands.
 If you use this repository in academic work:
 
 ```bibtex
-@misc{pptrDocumentationBilal2026,
+@misc{pptrBilal2026,
   author       = {Bilal Mubdir and Emmanuel Prempain},
   title        = {Propeller Performance Test Rig Documentation},
   year         = {2026},
