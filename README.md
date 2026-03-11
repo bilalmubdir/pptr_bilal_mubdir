@@ -14,6 +14,7 @@
 # Propeller Performance Test Rig Documentation
 
 [![OSHWA Certification](https://img.shields.io/badge/OSHWA-UK000089-darkred)](https://certification.oshwa.org/uk000089.html)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue)](https://doi.org/10.5281/zenodo.18954630)
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](LICENSE)
 <div> <a href="https://certification.oshwa.org/uk000089.html"><img src="docs/figures/misc/certification-mark-UK000089-wide.svg" height="60"></div>
   

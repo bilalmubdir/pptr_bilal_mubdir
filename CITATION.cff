@@ -1,14 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this hardware, documentation, or software, please cite it as below."
-title: "PPTR — Propeller Performance Test Rig (Open‑Source Device Documentation)"
+title: "PPTR — Propeller Performance Test Rig (Open-Source Device Documentation)"
 authors:
   - family-names: "Mubdir"
-    given-names: "Bilal A.M."
+    given-names: "Bilal"
     orcid: "https://orcid.org/0000-0001-8096-8027"
+  - family-names: "Prempain"
+    given-names: "Emmanuel"
+    affiliation: "University of Leicester, School of Engineering"
 affiliation: "University of Leicester, School of Engineering"
-version: "v1.0.1"
+version: "v1.0.2"
 date-released: "2026-03-10"
-doi: "ADD YOUR ZENODO DOI HERE"
+doi: "10.5281/zenodo.18954630"
 url: "https://github.com/bilalmubdir/pptr_bilal_mubdir"
 repository-code: "https://github.com/bilalmubdir/pptr_bilal_mubdir"
 keywords:
